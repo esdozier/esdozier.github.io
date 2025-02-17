@@ -19,13 +19,13 @@ body{
     background-color:#333333;
 }
 h1{
-    color: teal;
+    color: aqua;
     font-family: "Times New Roman";
     font-size: 300%;
     text-align: center;
 }
 h2{
-    color: aqua;
+    color: teal;
     font-family:"Times New Roman";
     font-size: 150%;
     text-align: center;
