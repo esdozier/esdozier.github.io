@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Dozier;Evan;;;
+FN:Evan Dozier
+ORG:Dozier's Data & Desktop Solutions
+ADR;TYPE=WORK:Torrance, CA
+TITLE:Data & IT Specialist
+TEL;TYPE=CELL:+1(240)390-7353
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:
+URL;TYPE=Digital Business Card:
+URL:https://www.esdozier.github.io
+URL;TYPE=Website:https://www.esdozier.github.io
+URL;TYPE=LinkedIn:https://linkedin.com/in/evan-s-dozier
+URL;TYPE=GitHub:https://github.com/esdozier
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:From data manipulation to network configuration, I offer a wide range of solutions for data analytics and information technology needs.
+UID:EnBizCard-100559090
+END:VCARD
