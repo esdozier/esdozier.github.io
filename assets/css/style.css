@@ -83,6 +83,13 @@ p {
     padding-bottom:20px;
 }
 
+i{
+    font-family: 'Times New Roman', Times, serif;
+    line-height:30px;
+    padding-bottom:20px;
+    font-size: 28px;
+}
+
 .space-free {
     height:100px;
 }
@@ -131,7 +138,7 @@ section {
     z-index:9999;
     left:5px;
     top:20px;
-    color: #333333;
+    color: #ffffff;
 }
 
 #cbp-spmenu-s2 {
@@ -148,7 +155,7 @@ section {
     z-index: 9999;
      right: 5px; 
      top: 20px; 
-     color: #333333;
+     color: #ffffff;
 }
 /*=======================================
     COMPONENTS.CSS ADJUSTMENTS STYLES
